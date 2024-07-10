@@ -51,6 +51,10 @@ Additionally, you might need to enable the read-only option to prevent the game 
 ![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/0332a91e-bc8f-4402-89ec-042c11d623fa)
 
 ## Comparisons
+![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/230ac561-e2ea-42ca-b6da-5472a9d3d822)
+
+![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/235d9e5e-4968-4c42-ba75-9dab9eccc456)
+
 
 ## Benchmark
 7800x3d 4090 <br>
