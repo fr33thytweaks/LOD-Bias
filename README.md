@@ -38,6 +38,8 @@ This involves merely adjusting a graphics setting. If game developers disapprove
 For instance, Rainbow Six Siege allows you to launch the game but displays a warning and restricts online play.<br> 
 Conversely, Counter-Strike 2 completely prevents you from launching the game.
 
+![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/b1ff017f-330c-406e-9d26-d7398e9ef660)
+![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/5a014072-e3b0-4150-a6f4-b6cad4506b5b)
 
 ## Note
 For some game engines, you'll need to manually apply the LOD settings in inspector using the game profile.<br>
