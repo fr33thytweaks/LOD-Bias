@@ -56,4 +56,7 @@ Additionally, you might need to enable the read-only option to prevent the game 
 7800x3d 4090 <br>
 OBS NDI game capture<br>
 
+![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/875f5cb7-3e18-424f-9b9b-ea0bd69a3260)
+
+
 ## Video
