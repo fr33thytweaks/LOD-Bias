@@ -74,3 +74,6 @@ However, I opted to use Modern Warfare 2 as it's a more consistent benchmark.<br
 
 
 ## Video
+[Video](<https://youtu.be/o7O-DODzD5g>)
+
+[![Video](https://img.youtube.com/vi/o7O-DODzD5g/maxresdefault.jpg)]([https://www.youtube.com/watch?v=o7O-DODzD5g](https://youtu.be/o7O-DODzD5g))
