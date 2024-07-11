@@ -50,6 +50,8 @@ Additionally, you might need to enable the read-only option to prevent the game 
 
 ![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/0332a91e-bc8f-4402-89ec-042c11d623fa)
 
+Some DX12 games may require the shader cache files to be deleted before LOD optimization is applied. 
+
 ## Comparisons
 ![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/230ac561-e2ea-42ca-b6da-5472a9d3d822)
 
