@@ -66,7 +66,7 @@ OBS NDI game capture<br>
 
 It's unusual that there appears to be no scaling between these settings in multiplayer titles.<br>
 I observed a similar pattern with XDefiant and Rainbow Six Siege.<br> 
-However, I opted to use Modern Warfare 2 for benchmarking due to its more consistent results.<br>
+However, I opted to use Modern Warfare 2 as it's a more consistent benchmark.<br>
 
 ![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/0f65f8b6-a9a6-41f3-a604-5612d1b9ab46)
 
