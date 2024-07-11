@@ -57,10 +57,18 @@ Additionally, you might need to enable the read-only option to prevent the game 
 
 
 ## Benchmark
-7800x3d 4090 <br>
+7800x3d 4090<br>
 OBS NDI game capture<br>
 
 ![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/875f5cb7-3e18-424f-9b9b-ea0bd69a3260)
+
+It's unusual that there appears to be no scaling between these settings in multiplayer titles.<br>
+I observed a similar pattern with XDefiant and Rainbow Six Siege.<br> 
+However, I opted to use Modern Warfare 2 for benchmarking due to its more consistent results.<br>
+
+![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/0f65f8b6-a9a6-41f3-a604-5612d1b9ab46)
+
+![image](https://github.com/fr33thytweaks/LOD-Bias/assets/168888348/04e917ff-f746-44ed-bddf-5e6775d7d70b)
 
 
 ## Video
